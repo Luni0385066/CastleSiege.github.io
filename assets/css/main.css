@@ -2260,6 +2260,7 @@
 			.panel > .intro.joined {
 				width: 18.5rem;
 				padding-right: 0;
+				overflow-y: visible;
 			}
 
 				.panel > .intro.joined + .inner {
